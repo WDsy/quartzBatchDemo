@@ -4,7 +4,7 @@ import org.quartz.Job;
 
 
 /**
- * @author zhouweidong
+ * @author wdsy
  * @date 2017年1月22日
  */
 public interface IBatchJob extends Job {

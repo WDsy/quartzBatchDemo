@@ -16,7 +16,7 @@ import static org.quartz.TriggerBuilder.newTrigger;
 
 
 /**
- * @author zhouweidong
+ * @author wdsy
  * @date 2017年1月22日
  */
 @Service("scheduleTaskService")

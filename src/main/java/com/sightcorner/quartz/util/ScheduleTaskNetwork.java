@@ -8,7 +8,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @author zhouweidong
+ * @author wdsy
  * @date 2017年1月22日
  */
 public class ScheduleTaskNetwork {

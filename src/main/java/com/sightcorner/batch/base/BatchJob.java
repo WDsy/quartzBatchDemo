@@ -14,7 +14,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * @author zhouweidong
+ * @author wdsy
  * @date 2017年1月22日
  */
 public abstract class BatchJob implements IBatchJob{

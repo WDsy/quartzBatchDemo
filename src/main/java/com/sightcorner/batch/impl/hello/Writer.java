@@ -5,7 +5,7 @@ import org.springframework.batch.item.ItemWriter;
 import java.util.List;
 
 /**
- * @author zhouweidong
+ * @author wdsy
  * @date 2017年1月22日
  */
 public class Writer implements ItemWriter<Object> {

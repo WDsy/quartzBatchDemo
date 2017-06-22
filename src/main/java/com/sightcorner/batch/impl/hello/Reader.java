@@ -5,7 +5,7 @@ import org.springframework.batch.item.ItemReader;
 import java.util.Random;
 
 /**
- * @author zhouweidong
+ * @author wdsy
  * @date 2017年1月22日
  */
 public class Reader implements ItemReader<Object> {

@@ -6,7 +6,7 @@ import org.quartz.Scheduler;
 import java.util.List;
 
 /**
- * @author zhouweidong
+ * @author wdsy
  * @date 2017年1月22日
  */
 public interface IScheduleTaskService {
